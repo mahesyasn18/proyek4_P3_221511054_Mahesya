@@ -8,23 +8,23 @@ For help getting started with Flutter, view our online
 ## MODIFIED BY : MAHESYA SETIA NUGRAHA (221511054)
 
 ## TAMPILAN APLIKASI
-Splash Screen (Baru)
+## Splash Screen (Baru)
 ![Shrine App Screenshot](screenshot/splashscreen.jpg)
 
-Login (Baru)
+## Login (Baru)
 ![Shrine App Screenshot](screenshot/login.jpg)
 
 HomePage All Product Filtered
 ![Shrine App Screenshot](screenshot/dashboardAllProduct.jpg)
 
-HomePage Accesories Filtered
+## HomePage Accesories Filtered
 ![Shrine App Screenshot](screenshot/dashboardAllProduct.jpg)
 
-HomePage Clothing Filtered
+## HomePage Clothing Filtered
 ![Shrine App Screenshot](screenshot/dashboardClothting.jpg)
 
-HomePage Home Filtered
+## HomePage Home Filtered
 ![Shrine App Screenshot](screenshot/dashboardClothting.jpg)
 
-Navigation Menu
+## Navigation Menu
 ![Shrine App Screenshot](screenshot/navMenu.jpg)
